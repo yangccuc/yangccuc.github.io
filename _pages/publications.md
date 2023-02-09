@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-_Note_: Author ordering on all papers is alphabetical, as is convention in OR/MS. (**C**) and (**J**) denote preliminary conference version and the full journal version, respectively.
+_Note_: Author ordering on all papers is alphabetical if not specified, as is convention in OR/MS. (**C**) and (**J**) denote preliminary conference version and the full journal version, respectively.
 # **Accepted Papers**
 * [Optimizing Two-Truck Platooning with Deadlines](https://arxiv.org/abs/2210.01889) w/ Wenjie Xu* and Minghua Chen (*: co-primary authors).[[Direct Link]](https://tcui-pitt.github.io/files/2truckplatooning.TITS.22.pdf) 
   * Accepted in IEEE Transactions on Intelligent Transportation Systems, 2022. 
