@@ -8,8 +8,14 @@ author_profile: true
 {% include base_path %}
 
 _Note_: Author ordering on all papers is alphabetical, as is convention in OR/MS. (**C**) and (**J**) denote preliminary conference version and the full journal version, respectively.
-
+# **Accepted Papers**
+* [Optimizing Two-Truck Platooning with Deadlines](https://arxiv.org/abs/2210.01889) w/ Wenjie Xu* and Minghua Chen (*: co-primary authors).[[Direct Link]](https://tcui-pitt.github.io/files/2truckplatooning.TITS.22.pdf) 
+  * Accepted in IEEE Transactions on Intelligent Transportation Systems, 2022. 
+  
 # **Working Papers**
+* [The Effects of Competition on Corporate Sustainability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4344348) w/ Titing Cui, Esther Gal-Or, Mike Gordon, and Jennifer Shang. 
+  * Submitted. 
+<!--   * <details><summary>Abstract</summary> We investigate the relationship between competition and market composition on prosocial corporate behaviors, with a focus on the adoption and proliferation of green technologies. We examine a model in which producers offer one of two substitutable goods: one that is inexpensive to produce but less environmentally responsible, referred to as the \textit{non-green} product, and another that is more costly but sustainably produced, referred to as the \textit{green} product. The producers of these goods can either cooperate or compete in the market, controlling both their price and level of corporate social responsibility (CSR) in order to maximize revenue. Using Salop's circle model, we examine a variety of arrangements of green and non-green producers and analyze the equilibrium policies that result. We find that in markets where firms produce both green and non-green goods, a reduction in the additional cost of green manufacturing induces more green investment and prosocial corporate investment when producers cooperate. On the other hand, when the green product is absent from the market, reductions in green production cost can more readily lead to the introduction of the green good in competitive markets. These results have significant implications for policy-making, as they provide insight into which types of markets are most affected by reductions in the cost of green goods, such as those resulting from government subsidies or technological innovation. </details> -->
 
 * [Pricing Strategies for Online Dating Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4032735) w/ Michael L. Hamilton. [[Slides]](https://tcui-pitt.github.io/files/ODP_cors_final.pptx)
   * Submitted 
@@ -21,6 +27,4 @@ _Note_: Author ordering on all papers is alphabetical, as is convention in OR/MS
   * <span style="color: orange;">Third Place, INFORMS Service Science Best Cluster Paper Award, 2022.</span>
 <!--   * <details><summary>Abstract</summary> With the rapid development of data-driven analytics, many firms have begun experimenting with personalized pricing strategies, i.e. strategies that predict a customer's valuation then offer them a tailored price. Ideally, a firm would perfectly predict each customer's valuation and price their goods accordingly. Unfortunately, in practice these valuations must be predicted by the firm using noisy regression models, and the number of prices the firm can offer is constrained by operational considerations. In this work, we give a general framework for analyzing and optimizing semi-personalized pricing strategies where the seller uses features about their customers to jointly segment and price their market. Specifically, we show how a seller can leverage a noisy valuation model to construct segmentation and pricing decisions with provable bounds on the lost revenue. We then give a series of the results that explain how a seller can improve their strategies by decomposing their lost profits as stemming from either prediction error or limited price flexibility. Along the way we prove a number of structural properties about monopoly pricing when valuations are the output of a regression model that may be of independent interest. </details> -->
 
-* [Optimizing Two-Truck Platooning with Deadlines](https://arxiv.org/abs/2210.01889) w/ Wenjie Xu* and Minghua Chen (*: co-primary authors).[[Direct Link]](https://tcui-pitt.github.io/files/2truckplatooning.TITS.22.pdf) 
-  * Accepted in IEEE Transactions on Intelligent Transportation Systems, 2022. 
-  
+
