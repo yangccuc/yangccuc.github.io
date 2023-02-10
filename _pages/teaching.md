@@ -6,15 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Instructor
+- Data Mining (Master & MBA), Fall 2022
 
-* [BQOM 2534 - STRATEGIC PROCUREMENT]
-  * Spring 2021 (Grader)
-
-* [BQOM 2535 - HC OPRTNS & SUPLY CHAIN MGMT]
-  * Summer 2021 (TA)
-
-* [BQOM 2401 - STATISTICAL ANALYSIS: UNCERT]
-  * Fall 2021 (TA)
-
-* [BQOM 2535 - HC OPRTNS & SUPLY CHAIN MGMT]
-  * Spring 2022 (TA)
+## Teaching Assistant
+- Strategic procurement (Master & MBA), Spring 2021
+- Healthcare Operations & Supply Chain Management (EMBA), Summer 2021, Spring 2022 & 2023
+- Statistical Analysis: Uncertainty (Master & MBA), Fall 2021
