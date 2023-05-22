@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Titing, I'm a 4th year PhD Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/). I am fortunate to be advised by Professor [Prakash Mirchandani](https://business.pitt.edu/professors/prakash-mirchandani/) and Professor [Michael L. Hamilton](https://mhamilton-pitt.github.io/). Before joining Katz, I obtained my B.S. degrees in Mathematics and Applied Mathematics from [Zhejiang Univeristy](https://www.zju.edu.cn/english/), and M.S. degrees in Applied and Computational Mathematics from [KTH Royal Institute of Technology](https://www.kth.se/en)  .
+Hi! I'm Titing, I'm a 4th year PhD Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/). I am fortunate to be advised by Professor [Prakash Mirchandani](https://business.pitt.edu/professors/prakash-mirchandani/) and Professor [Michael L. Hamilton](https://mhamilton-pitt.github.io/). Before joining Katz, I obtained my M.S. degrees in Applied and Computational Mathematics from [KTH Royal Institute of Technology](https://www.kth.se/en), and B.S. degrees in Mathematics and Applied Mathematics from [Zhejiang Univeristy](https://www.zju.edu.cn/english/).
 
 My research interests are broadly related to revenue management and pricing, prescriptive analytics, fairness, and market design.
 
