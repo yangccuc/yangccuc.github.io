@@ -29,5 +29,6 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 
 
 # **Work in Progress**
+
 *[Rating Systems Design: Structure, Incentives, and Fees]() w/ Michael L. Hamilton and Su Jia.
 
