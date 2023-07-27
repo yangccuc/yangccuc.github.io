@@ -12,7 +12,7 @@ Hi! I'm Titing, I'm a 4th year PhD Candidate in Business Analytics and Operation
 
 My research interests are broadly related to revenue management and pricing, prescriptive analytics, fairness, and market design.
 
-<span style="color: orange;"> I am on the 2023-2024 Academic Job Market.  </span>
+<span style="color: black;"> I am on the 2023-2024 Academic Job Market.  </span>
 
 
 <!-- 
