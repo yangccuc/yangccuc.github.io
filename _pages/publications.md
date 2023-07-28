@@ -37,3 +37,5 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
  
 * [Pricing for Two-sided Dating Platforms]() w/ Michael L. Hamilton and Qiqi Hao.
 
+* [Constant Capacity Multicommodity Fixed-Charge Network Design]() w/ Prakash Mirchandani.
+
