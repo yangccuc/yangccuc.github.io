@@ -33,7 +33,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 
 * [Rating Systems Design: Structure, Incentives, and Fees]() w/ Michael L. Hamilton and Su Jia.
 
-* [Demand Learning Beyond i.i.d Arrivals]() w/ Su Jia and Thomas Lavastida.
+* [From Stream to Pool: Demand Learning Beyond i.i.d Arrivals]() w/ Su Jia and Thomas Lavastida.
  
 * [Pricing for Two-sided Dating Platforms]() w/ Michael L. Hamilton and Qiqi Hao.
 
