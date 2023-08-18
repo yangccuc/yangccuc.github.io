@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 ## Instructor
 - Data Mining (Master & MBA)
-    - Fall 2022, 2023
+    - Fall 2022 & 2023
 
 ## Teaching Assistant
 - Strategic Procurement (Master & MBA)
