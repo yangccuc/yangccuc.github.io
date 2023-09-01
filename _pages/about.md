@@ -17,9 +17,10 @@ My research interests focus on building and analyzing business models for proble
 <span style="color: black;"> **I am on the 2023-2024 Academic Job Market**.  </span>
 
 # **Upcoming Talks**
-* Title: ME04 -  Pricing Strategies for Online Dating Platforms
-  * Date and Time: 10/16/23 at 4:00 PM
-  * Location: Phoenix Convention Cener-North 121A
+* Title: Pricing Strategies for Online Dating Platforms
+  * Session: ME04 - New Pricing Models for Online Economies 
+  * Date and Time: October 16, 2023, at 4:00 PM
+  * Location: CC-North 121A
 
 
 <!-- 
