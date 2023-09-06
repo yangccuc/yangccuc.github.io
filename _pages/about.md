@@ -13,8 +13,8 @@ Hi! I'm Titing, I'm a 5th-year Ph.D. Candidate in Business Analytics and Operati
 <span style="color: black;"> **I am on the 2023-2024 Academic Job Market**.  </span>
 
 My research interests focus on building and analyzing business models for problems that are related to revenue management and pricing, fairness, and market design.
-* Methodology: Optimization, Mathematical Analysis, Game Theory, Online Learning.
-* Application: Revenue management, Pricing, Sustainability, Fairness.
+* Methodologies: Optimization, Mathematical Analysis, Game Theory, Online Learning.
+* Applications: Revenue management, Pricing, Sustainability, Fairness.
 
 # **Upcoming Talks**
 * Title: Pricing Strategies for Online Dating Platforms
