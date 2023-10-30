@@ -31,7 +31,7 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
 
 # **Work in Progress**
 
-* [Rating Systems Design: Structure, Incentives, and Fees]() w/ Michael L. Hamilton and Su Jia.
+* [Rating Systems Design: Structure, Incentives, and Fees]() w/ Michael L. Hamilton and Su Jia. [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx)
 
 * [From Stream to Pool: Demand Learning Beyond i.i.d Arrivals]() w/ Su Jia and Thomas Lavastida.
  
