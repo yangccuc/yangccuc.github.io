@@ -28,12 +28,11 @@ _Note_: Author ordering on all papers is alphabetical if not specified, as is co
   * (**C**) Accepted in *The 3rd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (**EAAMO**)*, 2023. 
 <!--   * <details><summary>Abstract</summary> We investigate the relationship between competition and market composition on prosocial corporate behaviors, with a focus on the adoption and proliferation of green technologies. We examine a model in which producers offer one of two substitutable goods: one that is inexpensive to produce but less environmentally responsible, referred to as the \textit{non-green} product, and another that is more costly but sustainably produced, referred to as the \textit{green} product. The producers of these goods can either cooperate or compete in the market, controlling both their price and level of corporate social responsibility (CSR) in order to maximize revenue. Using Salop's circle model, we examine a variety of arrangements of green and non-green producers and analyze the equilibrium policies that result. We find that in markets where firms produce both green and non-green goods, a reduction in the additional cost of green manufacturing induces more green investment and prosocial corporate investment when producers cooperate. On the other hand, when the green product is absent from the market, reductions in green production cost can more readily lead to the introduction of the green good in competitive markets. These results have significant implications for policy-making, as they provide insight into which types of markets are most affected by reductions in the cost of green goods, such as those resulting from government subsidies or technological innovation. </details> -->
 
-
+* [From Stream to Pool: Demand Learning Beyond i.i.d Arrivals](https://arxiv.org/abs/2310.19220) w/ Su Jia and Thomas Lavastida.
+  
 # **Work in Progress**
 
 * [Rating Systems Design: Structure, Incentives, and Fees]() w/ Michael L. Hamilton and Su Jia. [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx)
-
-* [From Stream to Pool: Demand Learning Beyond i.i.d Arrivals]() w/ Su Jia and Thomas Lavastida.
  
 * [Pricing for Two-sided Dating Platforms]() w/ Michael L. Hamilton and Qiqi Hao.
 
