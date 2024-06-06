@@ -8,22 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Gabriel, I'm a 5th-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/). I am fortunate to be advised by Professor [Michael L. Hamilton](https://mhamilton-pitt.github.io/) and Professor [Prakash Mirchandani](https://business.pitt.edu/professors/prakash-mirchandani/). Before joining Katz, I obtained my M.S. degrees in Applied and Computational Mathematics from [KTH Royal Institute of Technology](https://www.kth.se/en), and B.S. degrees in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/).
+Hi! My name is Gabriel and I'm a 4th-year Ph.D. Candidate in Business Analytics and Operations (**expected graduation June 2025**) at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/), where I'm being advised by Professor [Leon Valdes](https://www.leonvaldes.com/). Together we have worked on several Socially Responsible Operations projects applying behavioral and experimental tools. I'm happy to be a part of both the Behavioral and Sustainable Operations community and look forward to continuing doing research in these areas. 
 
-<!--
-<span style="color: black;"> **I am on the 2023-2024 Academic Job Market**.  </span>
--->
-
-My research interests focus on building and analyzing business models for problems that are related to revenue management and pricing, fairness, and market design.
-* Methodologies: Optimization, Mathematical Analysis, Game Theory, Online Learning.
-* Applications: Revenue management, Pricing, Sustainability, Fairness.
+I'm originally from Guatemala, lived in Mexico for a while and now live in Pittsburgh with my wife; although we do travel often both inside the US and to Guatemala. We enjoy boardgames, walking in the city or outdoors, etc. 
 
 <!--
 # **Upcoming Talks**
-* Title: Pricing Strategies for Online Dating Platforms
-  * Session: ME04 - New Pricing Models for Online Economies 
-  * Date and Time: October 16, 2023, at 4:00 PM
-  * Location: CC-North 121A
+* Title: Selection, Payment, and Information Assessment in
+Social Audits: A Behavioral Experiment
+  * Session: Behavioral Operations Main Conference 
+  * Date and Location - Boulder, Colorado - June 27
 -->
 
 <!-- 
