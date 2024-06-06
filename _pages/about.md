@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is Gabriel and I'm a 4th-year Ph.D. Candidate in Business Analytics and Operations (**expected graduation June 2025**) at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/), where I'm being advised by Professor [Leon Valdes](https://www.leonvaldes.com/). Together we have worked on several Socially Responsible Operations projects applying behavioral and experimental tools. I'm happy to be a part of both the Behavioral and Sustainable Operations community and look forward to continuing doing research in these areas. 
 
-I'm originally from Guatemala, lived in Mexico for a while and now live in Pittsburgh with my wife; although we do travel often both inside the US and to Guatemala. We enjoy boardgames, walking in the city or outdoors, etc. 
+I'm originally from Guatemala, lived in Mexico for a while and now live in Pittsburgh with my wife, although we do travel often both inside the US and to Guatemala. We enjoy boardgames, walking in the city or outdoors, etc. 
 
 <!--
 # **Upcoming Talks**
