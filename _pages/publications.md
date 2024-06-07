@@ -15,8 +15,8 @@ author_profile: true
   
 # **Work in Progress**
 
-* **Reference-dependent effects in volunteering: Expected vs. experienced effort** w/ Leon Valdes and Mahyar Eftekhar. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
+* **Reference-dependent effects in volunteering: Expected vs. experienced effort** w/ Leon Valdes and Mahyar Eftekhar. In progress. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
  
-* **On the joint use of auditing and training to motivate supplier social responsibility** w/ Leon Valdes. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
+* **On the joint use of auditing and training to motivate supplier social responsibility** w/ Leon Valdes. In progress. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
 
 
