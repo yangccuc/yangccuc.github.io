@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-Please see my [CV](https://tcui-pitt.github.io/files/CV_Cui.pdf).
+[My Academic CV](https://gabrielpensamiento.github.io/files/CV_GP.pdf).
