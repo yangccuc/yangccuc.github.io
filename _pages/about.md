@@ -13,6 +13,9 @@ Hello! My name is Gabriel, and I'm a fourth-year Ph.D. Candidate in Business Ana
 
 I'm originally from Guatemala, where I did my undergraduate in Industrial Engineering at Universidad del Istmo. Then, I joined [IPADE Business School](https://www.ipadebusinessschool.com/) in Mexico City to learn more about the academic life at a business school. Finally, I currently live in Pittsburgh with my wife to pursue my PhD studies. I've loved living in all these places and enjoy keeping ties with people I crossed paths with at them.   
 
+**Contact Information**
+
+Please feel free to contact me at gap75@pitt.edu for potential collaborations, feedback, questions about my research, or anything you would like to discuss.
 <!--
 # **Upcoming Talks**
 * Title: Selection, Payment, and Information Assessment in
