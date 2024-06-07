@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Titing Cui"
+title                    : "Gabriel Pensamiento"
 title_separator          : "-"
-name                     : &name "Titing Cui"
+name                     : &name "Gabriel Pensamiento"
 description              : &description "personal description"
-url                      : https://tcui-pitt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gpensamiento.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tcui-pitt/tcui-pitt.github.io"
+repository               : "GabPensa/gpensamiento.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Titing Cui"
-  avatar           : "TitingCui.jpg"
-  bio              : "PhD candidate of Business Analytics and Operations at the University of Pittsburgh"
+  name             : "Gabriel Pensamiento"
+  avatar           : "fotoformal.jpg"
+  bio              : "PhD Candidate of Business Analytics and Operations at the University of Pittsburgh"
   location         : "Pittsburgh, PA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=ZjmfCsYAAAAJ"
-  email            : tic54@pitt.edu
+  googlescholar    : # "https://scholar.google.com/citations?view_op=list_works&hl=en&user=ZjmfCsYAAAAJ"
+  email            : gap75@pitt.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tcui-pitt"
+  github           : # "gpensamiento"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/titing-cui-67b7b4283/"
+  LinkedIn         : "https://www.linkedin.com/in/gabrielpensamiento/"
   orcid            : 
   pinterest        :
   soundcloud       :
