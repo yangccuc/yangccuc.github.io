@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+My research interests are at the intersection of Socially Responsible and Behavioral Operations topic. So far, I have focused on ethical sourcing and nonprofit operations management.
 
 # **Working Papers**
 * [**Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733385) w/ Leon Valdes. 
