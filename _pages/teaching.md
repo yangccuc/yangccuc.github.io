@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Teaching Experience
+I enjoy teaching to multiple groups, from undergraduates to MBAs and Executives. My main expertise is data-driven and behavioral topics applied to business, using both a magisterial and a business-case style.   
 
 ## Katz Graduate School of Business (University of Pittsburgh), Business Analytics & Operations, Pittsburgh, PA
 
