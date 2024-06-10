@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/), **where I expect to graduate by June 2025**.
 
 Under the guidance of Professor [Leon Valdes](https://www.leonvaldes.com/), I have had the privilege of working on multiple Socially Responsible Operations projects on topics I deeply care about using experimental and behavioral approaches. This experience has led me to be a part of the Behavioral and Sustainable Operations community. I look forward to continuing my research and involvement in these fields as I progress in my academic career. 
