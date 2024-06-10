@@ -13,7 +13,7 @@ name                     : &name "Gabriel Pensamiento"
 description              : &description "personal description"
 url                      : https://gpensamiento.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "GabPensa/gpensamiento.github.io"
+repository               : "gpensamiento/gpensamiento.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Pensamiento"
-  avatar           : "fotoformal.jpg"
+  avatar           : "formalsolo2023.jpg"
   bio              : "PhD Candidate of Business Analytics and Operations at the University of Pittsburgh"
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    :  "https://scholar.google.com/citations?user=6eIQihQAAAAJ&hl=en"
-  linkedin         : "https://www.linkedin.com/in/gabrielpensamiento/"
+  linkedin         : "gabrielpensamiento/"
   email            : gap75@pitt.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
