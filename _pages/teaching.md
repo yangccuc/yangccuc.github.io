@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Katz Graduate School of Business (University of Pittsburgh), Business Analytics & Operations, Pittsburgh, PA
+## University of Pittsburgh - Katz Graduate School of Business, Business Analytics & Operations, Pittsburgh, PA
 
 ### Course Instructor
 - **Data Mining** (MBA & MS group): *Fall 2022* (4.47/5 Student Evaluation), *Fall 2023* (4.86/5 Student Evaluation) 
@@ -15,7 +15,7 @@ author_profile: true
 ### Teaching Assistant and Recitation Leader
 - **Statistical Analysis** (MBA, Professional MBA, Executive MBA, and Healthcare MBA groups), for Prof. Jennifer Shang and Prof. Prakash Mirchandani - *Summer 2021, Fall 2021, Summer 2022*
 
-## IPADE Business School (Universidad Panamericana), Decision Analysis, Mexico City and Monterrey, MEX
+## Universidad Panamericana - IPADE Business School, Decision Analysis, Mexico City and Monterrey, MEX
 
 ### Guest Session Instructor
 - **Machine Learning for Management** (International MBA, *English*) - Introduction to Machine Learning, Regression Analysis, Decision Trees and Random Forest - *Spring 2024, Spring 2023*
@@ -24,7 +24,7 @@ author_profile: true
 ### Teaching Assistant
 - **Data Visualization, Decision Analysis, Quantitative Methods for Management** (MBA), for Prof. Alberto Ibarra - *Fall 2019 - Summer 2020*
 
-## Universidad del Istmo (UNIS), School of Engineering, Guatemala City, GUA
+## Universidad del Istmo (UNIS) - School of Engineering, Guatemala City, GUA
 
 ### Substitute Instructor
 - **Economic Engineering** (Bachelor in Engineering, *Spanish*) - *Spring 2019*
