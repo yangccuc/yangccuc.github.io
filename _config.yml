@@ -86,6 +86,7 @@ author:
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    :  "https://scholar.google.com/citations?user=6eIQihQAAAAJ&hl=en"
+  linkedin         : "https://www.linkedin.com/in/gabrielpensamiento/"
   email            : gap75@pitt.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +102,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/gabrielpensamiento/"
   orcid            : 
   pinterest        :
   soundcloud       :
