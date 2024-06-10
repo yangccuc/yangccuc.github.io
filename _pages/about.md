@@ -12,7 +12,7 @@ Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Bus
 
 Under the guidance of Professor [Leon Valdes](https://www.leonvaldes.com/), I have had the privilege of working on multiple Socially Responsible Operations projects on topics I deeply care about using experimental and behavioral approaches. This experience has led me to be a part of the Behavioral and Sustainable Operations community. I look forward to continuing my research and involvement in these fields as I progress in my academic career. 
 
-Before moving to Pittsburgh with my wife to pursue my PhD studies, I joined [IPADE Business School](https://www.ipadebusinessschool.com/) in Mexico City to learn more about the academic life at a business school. I got my Bachelor's in Industrial Engineering at Universidad del Istmo in Guatemala, where I'm originally from, and to which I still travel twice a year.
+Before moving to Pittsburgh with my wife to pursue my PhD studies, I joined [IPADE Business School](https://www.ipadebusinessschool.com/) in Mexico City to learn more about academic life at a business school. I got my Bachelor's in Industrial Engineering at Universidad del Istmo in Guatemala, where I'm originally from, and to where I still travel twice a year.
 
 ## Contact Information
 Don't hesitate to get in touch with me at **gap75@pitt.edu**!
