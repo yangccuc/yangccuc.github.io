@@ -8,21 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Gabriel, and I'm a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/). **I expect to graduate by June 2025.** I have the fortune of being advised by Professor [Leon Valdes](https://www.leonvaldes.com/), with whom I have worked on multiple Socially Responsible Operations projects using experimental and behavioral approaches. I am glad to be a part of the Behavioral and Sustainable Operations community and look forward to carrying out more research and being involved in these fields.
+Hi! My name is Gabriel Pensamiento and I'm a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/), **where I expect to graduate by June 2025**.  
+
+I have the fortune of being advised by Professor [Leon Valdes](https://www.leonvaldes.com/), with whom I have worked on multiple Socially Responsible Operations projects using experimental and behavioral approaches. I am glad to be a part of the Behavioral and Sustainable Operations community and look forward to carrying out more research and being involved in these fields.
 
 
-I'm originally from Guatemala, where I did my undergraduate in Industrial Engineering at Universidad del Istmo. Then, I joined [IPADE Business School](https://www.ipadebusinessschool.com/) in Mexico City to learn more about the academic life at a business school. Finally, I currently live in Pittsburgh with my wife to pursue my PhD studies. I've loved living in all these places and enjoy keeping ties with people I crossed paths with at them.   
+Before moving to Pittsburgh with my wife to pursue my PhD Studies, I joined [IPADE Business School](https://www.ipadebusinessschool.com/) in Mexico City to learn more about the academic life at a business school.I got my Bachelor in Industrial Engineering at Universidad del Istmo in Guatemala, where I'm originally from. 
 
 # **Contact Information**
-
-Please feel free to contact me at gap75@pitt.edu for potential collaborations, feedback, questions about my research, or anything you would like to discuss.
+* email: gap75@pitt.edu 
+Please feel free to contact me at **gap75@pitt.edu** for potential collaborations, feedback, questions about my research, or anything you would like to discuss.
 
 # **Upcoming Talks**
 * **Selection, Payment, and Information Assessment in
 Social Audits: A Behavioral Experiment**
   * **Conference**: Behavioral Operations Main Conference 
-  * **Date and Location**: June 27 - Boulder, Colorado
-
+  * **Date and Location**: June 27 9:15am - Boulder, CO
+* **Selection, Payment, and Information Assessment in
+Social Audits: A Behavioral Experiment**
+  * **Conference**: Informs Annual Meeting
+  * **Date and Location**: October - Seattle, WA
+* **Selection, Payment, and Information Assessment in
+Social Audits: A Behavioral Experiment**
+  * **Conference**: DSI Annual Meeting
+  * **Date and Location**: November, Phoenix, AZ
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
