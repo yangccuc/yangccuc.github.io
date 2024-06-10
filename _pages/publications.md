@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 {% include base_path %}
-My research interests are at the intersection of Socially Responsible and Behavioral Operations topic. So far, I have focused on ethical sourcing and nonprofit operations management.
 
 # **Working Papers**
-* [**Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733385) w/ Leon Valdes. 
+* [**Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733385) with Leon Valdes. 
   * Major Revision invited at **Manufacturing & Service Operations Management**.
     <!-- <span style="color: orange;">Finalist, POMS College of Service Operations Management (CSOM) Best Student Paper, 2024.</span>%} -->
-  * **Abstract**: Companies often rely on third-party social audits to assess suppliers’ social responsibility (SR) practices. However, empirical evidence suggests these audits can often be too lenient and poor practices go unreported, particularly if the auditor feels beholden to the supplier. We design and conduct an incentivized lab experiment to study how a supplier choosing and/or paying the auditor affects audit reports. We explore whether and how these levers affect auditors’ assessment of noisy signals about the supplier’s practices, and investigate the role of two behavioral phenomena: motivated reasoning and reciprocity. We find that auditors who are paid and chosen by the supplier are more lenient, with the effect more pronounced when the information observed suggests poor SR practices. We do not find evidence of auditors being more likely to believe the supplier has good practices when chosen by it. Conversely, reciprocity towards the supplier plays an important role behind our results. Finally, auditors who are merely paid by the supplier are not more lenient, which offers good news for practitioners. Our results can help guide companies’ auditing and procurement policies. First, they show that removing a supplier’s ability to choose its own auditor is critical to increase detection of poor SR practices, particularly when the risk of them is high. Second, removing the suppliers’ ability to choose their auditor—while still paying them—might be enough to reduce leniency. Finally, our findings shed light on some of the behavioral drivers behind auditors decisions, which can guide interventions to mitigate audit leniency. </details> 
+  * We designed and ran an incentivized laboratory experiment to establish the causal relationship between hiring schemes and social auditor decisions. Through it, we studied how auditors process information, form beliefs, and make decisions influenced by profit motives and concerns for affected workers and clients. We find that auditors behave more leniently, driven by economic and reciprocal concerns, not when the suppliers only pay them but when they both pay and choose them. 
   
 # **Work in Progress**
 
-* **Reference-dependent effects in volunteering: Expected vs. experienced effort** w/ Leon Valdes and Mahyar Eftekhar. In progress. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
+* **Reference-dependent effects in volunteering: Expected vs. experienced effort** with Leon Valdes and Mahyar Eftekhar. In progress. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
+  * We seek to examine how an experienced mismatch between expected and actual effort in a task affects people's perception of the task and their decision to engage in it again. We aim to compare this between a commercial and a volunteering setting in an incentivized experiment to understand the rational and behavioral drivers behind people's reactions in both contexts.  
  
-* **On the joint use of auditing and training to motivate supplier social responsibility** w/ Leon Valdes. In progress. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
-
+* **On the joint use of auditing and training to motivate supplier social responsibility** with Leon Valdes. In progress. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
+  * We consider the differential impacts of a buying company's reliance on auditing versus training their suppliers on their suppliers' decision to either actually improve their SR state or hide their true state via a game-theoretic model. Our preliminary results suggest that although auditing can backfire, training does not.
 
