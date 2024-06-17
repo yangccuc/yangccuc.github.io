@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Gabriel Pensamiento](https://gpensamiento.github.io/images/GabrielyDulce.jpg)
+![Gabriel Pensamiento](https://gpensamiento.github.io/images/GabrielyDulce2.jpg)
 
 
 Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/) under the advice of Professor [León Valdés](https://www.leonvaldes.com/). **I am currently on the 2024-2025 academic job market, expecting to graduate by June 2025**.
