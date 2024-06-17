@@ -14,7 +14,6 @@ My research focuses on **Socially Responsible** and **Behavioral Operations** to
 
 I have lived and maintain ties with people in Guatemala (where I was born and did my undergraduate), Mexico (where I started my academic career at [IPADE Business School](https://www.ipadebusinessschool.com/), and the US (particularly Pittsburgh, where I have lived all my married life and my PhD). I look forward to maintaining these ties and bridging different communities.
 
-## [Download CV](https://gpensamiento.github.io/files/Academic_CV_GP.pdf)
 
 ## Contact Information
 If you have questions about doing research in this area, are looking for collaborations or have questions about my research, don't hesitate to get in touch with me at  **gap75@pitt.edu**.
