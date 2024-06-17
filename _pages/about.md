@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/). **I am on the 2024-2025 academic job market**.
+Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/) under the advice of Professor [León Valdés](https://www.leonvaldes.com/). **I am currently on the 2024-2025 academic job market, expecting to graduate by June 2025**.
 
-Under the guidance of Professor [León Valdés](https://www.leonvaldes.com/), I have had the privilege of working on multiple Socially Responsible Operations projects on topics I deeply care about using experimental and behavioral approaches. This experience has led me to be a part of the Behavioral and Sustainable Operations community. I look forward to continuing my research and involvement in these fields as I progress in my academic career. 
+My Dissertation focuses on Socially Responsible and Behavioral Operations topics such as improving the social responsibility practices of suppliers both through auditing and training and better understanding volunteers' experiences in a non for profit context. I do so mostly through controlled experiments that allow me to study mechanisms effects. I believe better understanding these practices requires both a game-theoretic and a behavioral perspective and hope to contribute to more socially resposible business practices through my research endeavors.
 
-Before moving to Pittsburgh with my wife to pursue my PhD studies, I joined [IPADE Business School](https://www.ipadebusinessschool.com/) in Mexico City to learn more about academic life at a business school. I got my Bachelor's in Industrial Engineering at Universidad del Istmo in Guatemala, where I'm originally from, and to where I still travel twice a year.
+I have lived and maintain ties with people in Guatemala (where I was born and did my undergraduate), Mexico (where I started my academic career at [IPADE Business School](https://www.ipadebusinessschool.com/), and the US (particularly Pittsburgh, where I have lived all my married life and my PhD). I look forward to maintaining these ties and bridging different communities.
+
 ## [Download CV](https://gpensamiento.github.io/files/Academic_CV_GP.pdf)
 
 ## Contact Information
-Don't hesitate to get in touch with me at **gap75@pitt.edu**!
+If you have questions about doing research in this area, are looking for collaborations or have questions about my research, don't hesitate to get in touch with me at  **gap75@pitt.edu**.
 
 ## Upcoming Talks
 - **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
