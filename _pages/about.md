@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Gabriel Pensamiento](https://gpensamiento.github.io/images/GabrielyDulce.jpg)
+
 
 Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/) under the advice of Professor [León Valdés](https://www.leonvaldes.com/). **I am currently on the 2024-2025 academic job market, expecting to graduate by June 2025**.
 
@@ -17,6 +19,8 @@ I have lived and maintain ties with people in Guatemala (where I was born and di
 
 ## Contact Information
 If you have questions about doing research in this area, are looking for collaborations or have questions about my research, don't hesitate to get in touch with me at  **gap75@pitt.edu**.
+
+
 
 ## Upcoming Talks
 - **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
