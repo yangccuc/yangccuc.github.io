@@ -12,7 +12,7 @@ Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Bus
 
 My research focuses on **Socially Responsible** and **Behavioral Operations** topics such as improving the social responsibility practices of suppliers both through auditing and training and better understanding volunteers' experiences in a non for profit context. I do so mostly through controlled experiments that allow me to study mechanisms effects. I believe better understanding these practices requires both a game-theoretic and a behavioral perspective and hope to contribute to more socially resposible business practices through my research endeavors.
 
-I have lived and maintain ties with people in Guatemala (where I was born and did my undergraduate), Mexico (where I started my academic career at [IPADE Business School](https://www.ipadebusinessschool.com/), and the US (particularly Pittsburgh, where I have lived all my married life and my PhD). I look forward to maintaining these ties and bridging different communities.
+I have lived and maintain ties with people in Guatemala (where I was born and did my undergraduate), Mexico (where I started my academic career at [IPADE Business School](https://www.ipadebusinessschool.com/), and the US (particularly Pittsburgh, where I have lived all my married life and my PhD). I look forward to maintaining these ties and bridging different communities together.
 
 
 ## Contact Information
