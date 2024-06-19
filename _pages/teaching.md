@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy teaching to diverse audiences, having benefitted from teaching in the US, Mexico and Guatemala in english and spanish. My main current topics are related to Data (Data Mining, Machine Learning, Statistical Analysis, Data Visualization) and Decision (Negotiation) Sciences. 
+I enjoy teaching to diverse audiences, having benefitted from teaching in the US, Mexico and Guatemala in English and Spanish. My main current topics are related to Data (Data Mining, Machine Learning, Statistical Analysis, Data Visualization) and Decision (Negotiation) Sciences. 
 
 ## University of Pittsburgh - Katz Graduate School of Business, Business Analytics & Operations, Pittsburgh, PA
 
