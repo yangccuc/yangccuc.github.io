@@ -7,14 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  .about-image {
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 15px;
+    float: right;
+  }
+  
+  @media (max-width: 600px) {
+    .about-image {
+      float: none;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+</style>
 
 Hi! My name is Gabriel Pensamiento and I am a fourth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/) under the advice of Professor [León Valdés](https://www.leonvaldes.com/). **I am currently on the 2024-2025 academic job market, expecting to graduate by June 2025**.
 
 My research focuses on **Socially Responsible** and **Behavioral Operations** topics such as improving the social responsibility practices of suppliers both through auditing and training and better understanding volunteers' experiences in a non for profit context. I do so mostly through controlled experiments that allow me to study mechanisms effects. I believe better understanding these practices requires both a game-theoretic and a behavioral perspective and hope to contribute to more socially resposible business practices through my research endeavors.
 
-<img src="https://gpensamiento.github.io/images/GabrielyDulce.jpg" alt="Gabriel Pensamiento" style="width:250px; margin-left:15px; float:right;">
+
 I have lived and maintain ties with people in Guatemala (where I was born and did my undergraduate), Mexico (where I started my academic career at [IPADE Business School](https://www.ipadebusinessschool.com/), and the US (particularly Pittsburgh, where I have lived all my married life and my PhD). I look forward to maintaining these ties and bridging different communities together.
 
+<img src="https://gpensamiento.github.io/images/GabrielyDulce.jpg" alt="Gabriel Pensamiento" class="about-image">
 
 ## Contact Information
 If you have questions about doing research in this area, are looking for collaborations or have questions about my research, don't hesitate to get in touch with me at  **gap75@pitt.edu**.
