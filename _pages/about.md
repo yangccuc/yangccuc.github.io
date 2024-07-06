@@ -41,7 +41,6 @@ If you have questions about doing research in this area, are looking for collabo
 
 ## Upcoming Talks
 - **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
-  - [Behavioral Operations](https://jindal.utdallas.edu/events/behavioral-operations-conference/), Main Conference. June 27, 9:15 am - Boulder, CO
   - [Philadelphia Operations and Technology Day](https://sites.google.com/lehigh.edu/operations-tech-conference-24/). September 27 - Bethlehem, PA
   - [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Behavioral Operations Track. October - Seattle, WA
   - [DSI Annual Meeting](https://decisionsciences.org/conference/2024-annual-conference/), Humanitarian and Disaster Management Track & DEI Track. November - Phoenix, AZ
