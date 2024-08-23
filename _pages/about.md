@@ -41,11 +41,13 @@ If you have questions about doing research in this area, are looking for collabo
 
 ## Upcoming Talks
 - **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
-  - [Philadelphia Operations and Technology Day](https://sites.google.com/lehigh.edu/operations-tech-conference-24/). September 27 - Bethlehem, PA
-  - [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Behavioral Operations Track. October - Seattle, WA
-  - [DSI Annual Meeting](https://decisionsciences.org/conference/2024-annual-conference/), Humanitarian and Disaster Management Track & DEI Track. November - Phoenix, AZ
+  - [Philadelphia Operations and Technology Day](https://sites.google.com/lehigh.edu/operations-tech-conference-24/). Friday September 27, 2:30pm - Bethlehem, PA
+  - [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Behavioral Operations Track. Monday October 21, 11am-11:20am, Summit – 432 - Seattle, WA
+  - [DSI Annual Meeting](https://decisionsciences.org/conference/2024-annual-conference/), Diversity, Equity and Inclusion Track. Monday November 25, 1-1:30pm, JW Marriott Desert Ridge Resort, Floor: Level 1, Grand Canyon 1 - Phoenix, AZ
 
 
+- **Reference-dependent effects in volunteering: Expected vs. experienced effort**
+  - [DSI Annual Meeting](https://decisionsciences.org/conference/2024-annual-conference/), Humanitarian and Disaster Management Track. Saturday November 23, 1:30-2pm, JW Marriott Desert Ridge Resort, Floor: Level 1, Grand Canyon 12 - Phoenix, AZ
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
