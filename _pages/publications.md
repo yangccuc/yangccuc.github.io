@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-I enjoy doing research that has both academic and practical relevance. My main reseach tools are behavioral and experimental. My main research topics are Socially Responsible Operations (Ethical Sourcing, Social Auditing, Supplier Training) and Humanitarian or Nonprofit Operations (Volunteer Management).
+I enjoy doing research that has both academic and practical relevance. My main reseach tools are behavioral and experimental. My main research topics are Socially Responsible Operations (Ethical Sourcing, Social Auditing, Supplier Training) and Nonprofit Operations (Volunteer Management).
 
 # **Working Papers**
 * [**Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733385) with León Valdés. 
