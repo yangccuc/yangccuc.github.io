@@ -21,10 +21,5 @@ I enjoy doing research that has both academic and practical relevance. My main r
  
 * **On the joint use of auditing and training to motivate supplier social responsibility** with León Valdés. In progress. <!-- [[Slides]](https://tcui-pitt.github.io/files/Ratings_INFORMS23.pptx) -->
   * We consider the differential impacts of a buying company's reliance on auditing versus training their suppliers on their suppliers' decision to either actually improve their SR state or hide their true state via a game-theoretic model. Our preliminary results suggest that although auditing can backfire, training does not.
-<!--
-# **Early Stage Projects**
-Eventually:
-* Increasing Teachers' engagement in an educational app
-* Value Engineering to increase awareness of usefulness of designing for the bottom of the pyramid
-* Elder vs Infant care flexibility biases in executive decision making
--->
+
+<!--# **Early Stage Projects** Eventually: * Increasing Teachers' engagement in an educational app * Value Engineering to increase awareness of usefulness of designing for the bottom of the pyramid * Elder vs Infant care flexibility biases in executive decision making -->
