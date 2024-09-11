@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy teaching to diverse audiences with very different backgrounds, having benefitted from teaching in the US, Mexico and Guatemala to executives, MBAs, and undergraduates. My main current topics are related to Business Analytics (Data Mining, Machine Learning, Statistical Analysis) and Decision (Negotiation) Sciences. 
+I enjoy teaching to diverse audiences with very different backgrounds, having benefitted from teaching in the US, Mexico and Guatemala to executives, MBAs, and undergraduates. My main current topics are related to Business Analytics (Data Mining, Machine Learning, Statistical Analysis) and Decision Analysis (game-theoretic and data -driven). 
 
 ## University of Pittsburgh - Katz Graduate School of Business, Business Analytics & Operations, Pittsburgh, PA
 
