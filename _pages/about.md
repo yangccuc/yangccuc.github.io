@@ -28,7 +28,7 @@ Hi! I am Chia-Chun Yang, a fifth-year Ph.D. Candidate in the Department of Opera
 
 --Need to Insert content--
 
-<img src="https://gpensamiento.github.io/images/GabrielyDulce.jpg" alt="Gabriel Pensamiento" class="about-image">
+<!--<img src="https://gpensamiento.github.io/images/GabrielyDulce.jpg" alt="Gabriel Pensamiento" class="about-image">-->
 
 ## Contact Information
 If you have questions about doing research in this area, and are looking for collaborations or have questions about my research, please don't hesitate to reach out at **[yangcc@mail.uc.edu](yangcc@mail.uc.edu)**.
