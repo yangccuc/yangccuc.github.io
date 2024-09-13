@@ -31,13 +31,13 @@ Hi! I am Chia-Chun Yang, a fifth-year Ph.D. Candidate in the Department of Opera
 <!--<img src="https://gpensamiento.github.io/images/GabrielyDulce.jpg" alt="Gabriel Pensamiento" class="about-image">-->
 
 ## Contact Information
-If you have questions about doing research in this area, and are looking for collaborations or have questions about my research, please don't hesitate to reach out at **[yangcc@mail.uc.edu](yangcc@mail.uc.edu)**.
+If you have questions about doing research in this area, and are looking for collaborations or have questions about my research, please don't hesitate to reach out at [yangcc@mail.uc.edu](yangcc@mail.uc.edu).
 
 
 
 ## Upcoming Talks
 - **[2024 INFORMS Annual Meeting, Seattle, WA](https://meetings.informs.org/wordpress/seattle2024/)**
-  - **Impact of Shift Structure on Fatigue among Emergency Department Service Workers* (Monday, October 21, 12:45pm - 2:00pm, Room Summit-437)
-  - **Effect of Task and Temporal Attributes on Customers' Decisions to use Self-Service Technologies* (Tuesday, October 22, 8:00am - 9:15am, Room Summit-347)
+  - **Impact of Shift Structure on Fatigue among Emergency Department Service Workers** (Monday, October 21, 12:45pm - 2:00pm, Room Summit-437)
+  - **Effect of Task and Temporal Attributes on Customers' Decisions to use Self-Service Technologies** (Tuesday, October 22, 8:00am - 9:15am, Room Summit-347)
 
 
