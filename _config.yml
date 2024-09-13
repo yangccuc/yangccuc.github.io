@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel Pensamiento"
+title                    : "Chia-Chun Yang"
 title_separator          : "-"
-name                     : &name "Gabriel Pensamiento"
+name                     : &name "Chia-Chun Yang"
 description              : &description "personal description"
-url                      : https://gpensamiento.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangccuc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gpensamiento/gpensamiento.github.io"
+repository               : "yangccuc/yangccuc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gabriel Pensamiento"
-  avatar           : "formalsolo2023.jpg"
-  bio              : "PhD Candidate of Business Analytics and Operations at the University of Pittsburgh"
-  location         : "Pittsburgh, PA"
+  name             : "Chia-Chun Yang"
+  avatar           : "Yang, Chia-Chun-3.jpg"
+  bio              : "PhD Candidate in Operations Management at the University of Cincinnati"
+  location         : "Cincinnati, OH"
   employer         :
-  googlescholar    :  "https://scholar.google.com/citations?user=6eIQihQAAAAJ&hl=en"
-  linkedin         : "gabrielpensamiento/"
-  email            : gap75@pitt.edu
+  googlescholar    :
+  linkedin         : "chiachunyang1991/"
+  email            : yangcc@mail.uc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "gpensamiento"
+  github           : # "yangccuc"
   google_plus      :
   keybase          :
   instagram        :
