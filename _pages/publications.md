@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 I use empirical methods to study human behavior and decision-making regarding the use of operational technologies in service settings, as visualized in the figure below. A better understanding of these aspects can increase service process efficiency, improve service quality, and help service organizations enhance human well-being.  While my primary discipline is operations management, my research also draws inspiration and intelligence from other fields, including information systems and psychology.
-<img src="https://yangccuc.github.io/images/ResearchVennD.jpg" alt="ResearchVennD" class="about-image">
+<img src="https://yangccuc.github.io/images/ResearchVennD.JPG" alt="ResearchVennD" class="about-image">
 
 # **Working Papers**
 * **Effect of Shift Structure on Service-Worker Fatigue: Evidence from Emergency Department Caregivers** with Craig Froehle and Elizabeth Leenellett
