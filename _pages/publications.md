@@ -24,6 +24,5 @@ I use empirical methods to study human behavior and decision-making regarding th
 * **[3]:Influence of Task and Anthropomorphism on Customers’ Perceived Failure Risk with an Artificial Intelligence (AI) Service Agent** with Craig Froehle and Yinghao Zhang. In progress.
   * AI service agents (AISA) are increasingly common, even in healthcare. However, customers' experiences have been highly variable, with few firms fully realizing the operational benefits they expected. Using a combination of experimental and survey methods, we study how operational and behavioral factors drive customer-AISA interactions, satisfaction, and abandonment.
  
-* **The Role of Artificial Intelligence (AI) Technologies in Service Process Design** with Craig Froehle. In progress.
-  * We have partnered with an educational nonprofit based in the United States that aims to address children's illiteracy problem in developing countries like Rwanda, where primary teachers have scarce access to books adequate to their culture and native language. We are currently getting access to our field partner data and aim to design a field intervention to increase teachers’ engagement with the nonprofit’s application, using it to read more often with their students. 
+<!-- * **The Role of Artificial Intelligence (AI) Technologies in Service Process Design** with Craig Froehle. In progress. -->
 
