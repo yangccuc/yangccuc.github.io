@@ -13,7 +13,7 @@ I use empirical methods to study human behavior and decision-making regarding th
 
 # **Working Papers**
 * **[1]:Effect of Shift Structure on Service-Worker Fatigue: Evidence from Emergency Department Caregivers** with Craig Froehle and Elizabeth Leenellett
-  * Target: **Journal of Operations Management**
+  * Under Review: **Journal of Operations Management**
   * **Finalist**, POMS College of Behavioral Operations Management (CBOM) Junior Scholar Paper Competition, 2023.
   * It is well-established that worker fatigue can have deleterious consequences for work quality. However, less is known about how shift structure – an operational policy decision – influences worker fatigue. We collected primary data through a month-long fatigue-monitoring program we developed and implemented in an emergency department at a large, midwestern, academic hospital. Using a combination of nonparametric and econometrics models, we found that both the duration of a shift and its timing (i.e., when the shift starts) have important and differential impacts on workers’ perceived physical and mental fatigue. In addition, we observed that time spent on either extra-clinical professional responsibilities or personal chores reduces the efficacy of a clinician’s recovery time in terms of fatigue reduction. In contrast, we find that time spent with family and loved ones can significantly improve the effectiveness of fatigue recovery periods between work shifts. We conclude that scheduling policies that mitigate the physical and mental fatigue induced by shift work and allow for enhanced fatigue recovery between shifts should be preferred by organizations concerned with both employee well-being and consistently high service quality. 
   
