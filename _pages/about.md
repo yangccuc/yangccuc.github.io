@@ -34,7 +34,7 @@ If you are looking for collaborations or have questions about my research, pleas
 
 ## Upcoming Talks
 - **[2025 INFORMS Annual Meeting, Atlanta, GA](https://meetings.informs.org/wordpress/annual/?_gl=1%2A25jwqr%2A_gcl_au%2ANDk4MzE4MjE4LjE3NDc3MDAyNTQuMTA2NTA5OTczNy4xNzQ5MTc3NTMwLjE3NDkxNzc1Mjk.)**
-  - **Drivers of Customers’ Preferences for AI Service Agents** (November 2025)
+  - **Drivers of Customers’ Preferences for AI Service Agents** (October 2025)
 - **[2025 DSI Annual Conference, Orlando, FL](https://decisionsciences.org/conference/annual-2025/2025-annual-conference/)**
   - **The Influence of Shift Structure on Caregiver Fatigue in an Emergency Department** (November 2025)
   - **Drivers of Customers' Preferences for AI Service Agents** (November 2025)
