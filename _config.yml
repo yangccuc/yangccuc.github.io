@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chia-Chun Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chia-Chun Yang"
 description              : &description "personal description"
