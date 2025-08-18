@@ -14,6 +14,7 @@ I enjoy teaching to students with diverse backgrounds, talent, and learning styl
 ### Course Instructor
 - **OM3080: Operations Management** (Undergraudate Level): *Fall 2024* (Instructor Rating: 7.58/8)
 - **BANA7011: Business Analytics** (Graudate Level): *Fall 2023* (Student Evaluation: 7.56/8) 
+- **BANA7012: Decision Modeling** (Graudate Level): *Summer 2025* (Student Evaluation: 7.63/8)
 - **BANA7012: Decision Modeling** (Graudate Level): *Spring 2025* (Student Evaluation: 7.65/8)
 - **BANA7012: Decision Modeling** (Graudate Level): *Summer 2024* (Student Evaluation: 6.89/8)
 
