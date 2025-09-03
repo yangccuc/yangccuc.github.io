@@ -9,7 +9,7 @@ author_profile: true
 
 ![Research diagram](https://yangccuc.github.io/images/Research VD.jpg){: .align-right width="300" height="260" }
 
-I use empirical methods to study human behavior and decision-making regarding the use of operational technologies in service settings, as visualized in the figure below. A better understanding of these aspects can increase service process efficiency, improve service quality, and help service organizations enhance human well-being. While my primary discipline is operations management, my research also draws inspiration and intelligence from other fields, including information systems, marketing, and psychology.
+I use empirical methods to study human behavior and decision-making regarding the use of operational technologies in service settings, as visualized in the figure to the right. A better understanding of these aspects can increase service process efficiency, improve service quality, and help service organizations enhance human well-being. While my primary discipline is operations management, my research also draws inspiration and intelligence from other fields, including information systems, marketing, and psychology.
 
 <div style="clear: both;"></div>
 
