@@ -10,7 +10,7 @@ author_profile: true
 I use empirical methods to study human behavior and decision-making regarding the use of operational technologies in service settings, as visualized in the figure below. A better understanding of these aspects can increase service process efficiency, improve service quality, and help service organizations enhance human well-being.  While my primary discipline is operations management, my research also draws inspiration and intelligence from other fields, including information systems, marketing, and psychology.
 <br>
 
-<img src="https://yangccuc.github.io/images/Research VD.jpg" alt="Research VD" class="about-image" style="display:block;margin:0 auto;width:400px;height:350px;">
+<img src="https://yangccuc.github.io/images/Research VD.jpg" alt="Research VD" class="about-image" style="display:block;margin:0 auto;width:300px;height:270px;">
 
 # **Papers under Review & Working Papers**
 * [1]: **Chia-Chun Yang**, Craig Froehle, Elizabeth Leenellett, “Effect of Shift Structure on Service-Worker Fatigue: Evidence from Emergency Department Caregivers” (planned for submission to Production and Operations Management in September 2025)
