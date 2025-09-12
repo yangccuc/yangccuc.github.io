@@ -37,7 +37,7 @@ If you are looking for collaborations or have questions about my research, pleas
 - **[2025 INFORMS Annual Meeting, Atlanta, GA](https://meetings.informs.org/wordpress/annual/?_gl=1%2A25jwqr%2A_gcl_au%2ANDk4MzE4MjE4LjE3NDc3MDAyNTQuMTA2NTA5OTczNy4xNzQ5MTc3NTMwLjE3NDkxNzc1Mjk.)**
   - **Drivers of Customers’ Preferences for AI Service Agents** <br><i>Sunday, October 26th / 8:54 AM - 9:12 AM / Building A Level 3 A311</i>
 - **[2025 DSI Annual Conference, Orlando, FL](https://decisionsciences.org/conference/annual-2025/2025-annual-conference/)**
-  - **Drivers of Customers' Preferences for AI Service Agents** <br><i>Saturday, November 22nd</i> | <i>8:00 AM - 9:30 AM</i> | <i>Orlando World Center Marriott - Atlanta</i>
-  - **The Influence of Shift Structure on Caregiver Fatigue in an Emergency Department** <br><i>Saturday, November 22nd</i> | <i>4:30 PM - 6:00 PM</i> | <i>Orlando World Center Marriott - Crystal B</i>
+  - **Drivers of Customers' Preferences for AI Service Agents** <br><i>Saturday, November 22nd / 8:00 AM - 9:30 AM / Orlando World Center Marriott - Atlanta</i>
+  - **The Influence of Shift Structure on Caregiver Fatigue in an Emergency Department** <br><i>Saturday, November 22nd / 4:30 PM - 6:00 PM / Orlando World Center Marriott - Crystal B</i>
 
 
