@@ -34,8 +34,7 @@ If you are looking for collaborations or have questions about my research, pleas
 
 
 ## Upcoming Talks
-- **[2025 DSI Annual Conference, Orlando, FL](https://decisionsciences.org/conference/annual-2025/2025-annual-conference/)**
-  - **Drivers of Customers' Preferences for AI Service Agents** <br><i>Saturday, November 22 / 8:00 AM - 9:30 AM / Orlando World Center Marriott—Atlanta</i>
-  - **The Influence of Shift Structure on Caregiver Fatigue in an Emergency Department** <br><i>Saturday, November 22 / 4:30 PM - 6:00 PM / Orlando World Center Marriott—Crystal B</i>
+- **[2026 Annual POMS Conference, Reno, NV](https://pomsmeetings.org/conf-2026/)**
+<!--  - **Drivers of Customers' Preferences for AI Service Agents** <br><i>Saturday, November 22 / 8:00 AM - 9:30 AM / Orlando World Center Marriott—Atlanta</i>-->
 
 
