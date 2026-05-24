@@ -34,8 +34,9 @@ If you are looking for collaborations or have questions about my research, pleas
 
 
 ## Upcoming Talks
-**[2026 Annual POMS Conference, Reno, NV](https://pomsmeetings.org/conf-2026/)**
-- **Customer Decisions to Use Self-Service Technologies: The Roles of Task Complexity and Time Pressure** <br><i>Saturday, May 9 / 3:30 PM - 5:00 PM / Crystal 1</i>
+**[2026 DSI Annual Conference, San Francisco, CA](https://decisionsciences.org/conference/2026-annual-conference/2026-annual-conference-main-page/)**
+<!--- **Customer Decisions to Use Self-Service Technologies: The Roles of Task Complexity and Time Pressure** <br><i>Saturday, May 9 / 3:30 PM - 5:00 PM / Crystal 1</i>
 - **Drivers of Customers' Preferences for AI Service Agents** <br><i>Sunday, May 10 / 1:15 PM - 2:45 PM / Ruby 1</i>
+-->
 
 
